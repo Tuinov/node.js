@@ -10,6 +10,8 @@
     },
     "dependencies": {
         "ansi": "^0.3.1",
+        "axel": "0.0.3",
+        "chalk": "^4.1.0",
         "express": "^4.17.1",
         "minimist": "^1.2.5"
     },
